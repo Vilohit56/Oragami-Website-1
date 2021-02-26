@@ -1,0 +1,17 @@
+.one{
+    display: flex;
+    justify-content: center;
+}
+
+.two{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.three{
+    color: rgb(189, 9, 174);
+    display: flex;
+    justify-content: center;
+}
+
